@@ -1,7 +1,8 @@
-[MasterHead](https://www.google.com/search?q=simple+gif+for+masterhead+in+github&tbm=isch&ved=2ahUKEwi56ovrjcWDAxWpE1kFHcRXBJ4Q2-cCegQIABAA&oq=simple+gif+for+masterhead+in+github&gs_lcp=CgNpbWcQAzoFCAAQgAQ6BggAEAgQHjoOCAAQgAQQigUQsQMQgwE6CAgAEIAEELEDOgoIABCABBCKBRBDOg0IABCABBCKBRBDELEDULMJWMJrYOttaAFwAHgAgAFgiAGKE5IBAjM3mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=51yXZfnaPKmn5NoPxK-R8Ak&bih=738&biw=1536&rlz=1C1BNSD_enBD966BD966#imgrc=JT0a6Q7_7p3etM)
+
+![MasterHead](https://user-images.githubusercontent.com/99876749/204871672-98eeac12-1d33-4f4a-9aa3-c0d820b6d942.gif)
 <h1 align="center">Hi 👋, I'm Sk Sanjida Tanisha</h1>
 <h3 align="center">I'm a passionate Software Engineer and Android Developer.</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/search?q=animated+woman+coding+gif&tbm=isch&ved=2ahUKEwjxh7H2isWDAxUEDWIAHeEoDvgQ2-cCegQIABAA&oq=animated+woman+coding+gif&gs_lcp=CgNpbWcQAzoFCAAQgAQ6BggAEAgQHjoHCAAQgAQQGFCEBVj5LGCbL2gBcAB4AIABR4gB8AOSAQE4mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=2lmXZfGyFoSaiLMP4dG4wA8&bih=738&biw=1519&rlz=1C1BNSD_enBD966BD966&hl=en#imgrc=qQViMd7j3uvKPM">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sktanisha&label=Profile%20views&color=0e75b6&style=flat" alt="sktanisha" /> </p>
 
 - 📫 How to reach me **sanjidatanisha99@gmail.com**
